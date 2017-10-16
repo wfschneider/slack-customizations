@@ -3,6 +3,9 @@ My collection of Slack customizations
 
 ## Quotes
 
+> The offending code has been removed!
+
+
 ## Images
 
 | Name |  Image |
